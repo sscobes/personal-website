@@ -1,10 +1,9 @@
+import Navbar from "./components/Navbar";
 
-function App() {
+export default function App() {
   return (
-    <h1 className="text-color">
-      Hello world!
-    </h1>
+      <div className="flex">
+        <Navbar />
+      </div>
   )
-}
-
-export default App;
+};
