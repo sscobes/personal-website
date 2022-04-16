@@ -7,4 +7,4 @@ Currently a work in progress as I learn more about Tailwind functionality and de
 # Demo
 Run a live local demo of the in process site by cloning the repository and then running ```npm run start```
 
-A live version can be found at [I'm an inline-style link](https://jackds.me/)
+A live version can be found at [jackds.me](https://jackds.me/)
