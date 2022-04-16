@@ -4,12 +4,14 @@ import { Transition } from "@headlessui/react";
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   return (
-      <nav className="w-screen fixed top-0">
+      <nav className="w-screen fixed top-0 bg-slate-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-16">
                 <div className="flex items-center">
-                    <a href="#home" className='font-sans font-[500] italic text-3xl mt-4 w-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-100 text-sky-200 hover:text-white'>
-                    &lt; JS &gt;
+                    <a 
+                      href="#home" 
+                      className='font-sans font-[500] italic text-3xl mt-4 w-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-100 text-sky-200 hover:text-white'>
+                      &lt; JS &gt;
                     </a>
                     <div className="hidden md:block">
                         <div className="ml-10 flex items-baseline space-x-4">

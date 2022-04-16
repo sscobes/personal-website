@@ -6,22 +6,26 @@
 ::-webkit-scrollbar {
     width: 12px;
     height: 12px;
-  }
+}
   
-  /* Track */
-  ::-webkit-scrollbar-track {
-    border-radius: 80vh;
-    background: transparent;
-  }
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 80vh;
+  background: transparent;
+}
   
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: aliceblue;
-    border-radius: 80vh;
-    border: 3px solid transparent;
-  }
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: aliceblue;
+  border-radius: 80vh;
+  border: 3px solid transparent;
+}
   
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: deepskyblue;
-  }
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: deepskyblue;
+}
+
+html {  
+    scroll-behavior: smooth;  
+}
