@@ -2,7 +2,7 @@ import React from "react";
 
 function Experience() {
     return (
-        <div id="experience" className="pt-52 pb-44 xl:ml-[240px] 2xl:ml-[480px] ml-16 text-lg w-[600px] transition-all ease-linear duration-[250ms] space-y-3">
+        <div id="experience" className="pt-52 pb-16 xl:ml-[240px] 2xl:ml-[480px] ml-16 text-lg w-[600px] transition-all ease-linear duration-[250ms] space-y-3">
             <header>
                 <h1 className="text-white text-3xl font-semibold">
                     Experience
