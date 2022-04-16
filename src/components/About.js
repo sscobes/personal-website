@@ -19,9 +19,8 @@ function About() {
                     from building my own computer many times over to making my own custom plugins for games I played.
                 </p>
                 <p className="mb-4">
-                    This leads us to today where I put my full time (outside of my current job) into
-                    continuing to hone my Full-Stack Development skills as well as learning new skills
-                    with the rise of Web3 technologies.
+                    This leads us to today, where I continue to hone my Full-Stack Development skills, 
+                    as well as learning new skills with the rise of Web3 technologies.
                 </p>
                 <p className="mb-4">
                     Some of the technologies I use: 
