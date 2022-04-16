@@ -30,7 +30,7 @@ function Experience() {
                     Exelon Generation Company (June 2018-August 2018)
                 </h1>
                 <h2 className="text-white italic">
-                    infrastructure Design & Projects Intern
+                    Infrastructure Design & Projects Intern
                 </h2>
                 <ul className="text-white marker:text-xs list-disc ml-10 mt-2">
                     <li>Supported mentor in the planning and overseeing projects for the network infrastructure team - 
