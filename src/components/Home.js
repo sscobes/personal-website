@@ -1,8 +1,8 @@
-
+import React from "react";
 
 function Home() {
     return(
-        <header className="font-bold flex flex-col xl:ml-[240px] 2xl:ml-[480px] ml-16 pt-96 space-y-3 transition-all ease-linear duration-[250ms]" id="home">
+        <header className="font-bold flex flex-col xl:ml-[240px] 2xl:ml-[480px] ml-16 pt-96 pb-56 space-y-3 transition-all ease-linear duration-[250ms]" id="home">
             <h1 className="text-sky-200 text-4xl">
                 Hi!
             </h1>
